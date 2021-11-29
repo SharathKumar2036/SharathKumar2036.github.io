@@ -1,0 +1,85 @@
+div.l{
+	position: absolute;
+  	bottom:5px;
+	left:70px;
+}
+div.ct{
+  	padding:10px;
+	position: absolute;
+  	bottom: 310px;
+	left:370px;
+	text-align:left;
+	font-size:65px;
+}
+a:hover{
+	text-decoration: line-through;
+    	text-decoration-color: red;
+}
+a{
+	text-decoration: none;
+	color: gray;	
+}
+div.kt{
+	padding:5px;
+	position: absolute;
+  	bottom: 370px;
+	left:1000px;
+	text-align:left;
+	font-size:22px;
+	border-bottom-style: solid;
+  	border-bottom-color: coral;
+  	
+}
+button.btn1{
+	text-align: center;
+	background-color:#FF6700;
+	color: white;
+	width:140px;
+	padding: 10px;
+	display: inline-block;
+	font-size: 18px;
+	margin: -15px 0px;
+	cursor: pointer;
+	position: absolute;
+	bottom:0px;
+	left:70px;
+	border-radius:21px;
+}
+.row{
+	position:absolute;
+	top:75%;
+	left:32%;
+	transform:translate(-50%,-50%);
+	background: #fff;
+	width:110px;
+	height:170px;
+	padding:20px;
+	border-radius:18px;
+	box-shadow: 0 0 6px rgba(0,0,0,0.5)
+}
+.row1{
+	top:75%;
+	left:45%;
+}
+.row2{
+	top:75%;
+	left:58%;
+}
+.row3{
+	top:75%;
+	left:71%;
+}
+.row4{
+	top:75%;
+	left:84%;
+}
+.column {
+	border: 50px;
+}
+.as{
+	
+	border-radius: 50px;
+	width:110px;
+	height:110px;
+
+}
